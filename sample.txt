@@ -2,3 +2,7 @@ hi how are you
 fine
 ready
 
+wool
+ 
+ karma
+
