@@ -4,3 +4,6 @@ hai dude
 fff
 heroine
 ssh key generates
+free
+hello
+git stash
