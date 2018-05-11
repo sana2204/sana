@@ -1,5 +1,9 @@
 hi bro
 how are you
 iam fine
+<<<<<<< HEAD
 why are you here.
 how
+=======
+hi
+>>>>>>> 32d5dfc579850d9a8f5c5e25d46780f50c9834d4
